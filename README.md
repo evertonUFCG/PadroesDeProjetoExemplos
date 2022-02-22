@@ -5,3 +5,11 @@
 - Strategy:
   * EstacionamentoSemStrategy
   * EstacionamentoComStrategy
+- Observer:
+  * EstacaoMeteorologicasSemObserver
+  * EstacaoMeteorologicasComObserver
+- Bridge:
+  * SerializadorSemBridge
+  * SerializadorSemBridge
+- State:
+  * MarioComState
